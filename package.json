@@ -1,0 +1,21 @@
+{
+  "name": "moegi-space-edit",
+  "displayName": "Moegi Space Edit",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moegi Space Edit",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moegi Space Edit-color-theme.json"
+      }
+    ]
+  }
+}
